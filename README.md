@@ -63,7 +63,3 @@ Still working on a license! But feel free to use the things for commercial as we
 
 - 手元のPC（macOS/Windows）では `gpiozero` や `RPLCD` が「見つからない」と表示されることがありますが問題ありません。基本的に Raspberry Pi 上で動かす前提です。
 - アシスタントを動かすには環境変数 `OPENAI_API_KEY` と `GEMINI_API_KEY` の設定が必要です。
-
-## ライセンス
-
-公開・再配布する場合は、必要に応じてライセンスファイルを追加してください。
