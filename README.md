@@ -1,5 +1,8 @@
 # Raspberry Pi Gemini Voice Assistant
 
+![pivoice](https://github.com/user-attachments/assets/839d38c9-61d6-46a7-9797-7b9d8e9f1f94)
+
+
 Build a beginner-friendly **Raspberry Pi voice assistant** with:
 
 - a **button / slide switch** to start listening
