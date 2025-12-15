@@ -2,6 +2,9 @@
 
 This guide shows how to wire a common **IIC/I2C LCD 1602** module (a 16x2 LCD with an I2C backpack—often labeled **PCF8574**) and print text from Python.
 
+![IMG_8083](https://github.com/user-attachments/assets/04df248a-cdba-4c6a-95a0-09c15ea69e35)
+
+
 ## What you’ll need
 
 - Raspberry Pi
